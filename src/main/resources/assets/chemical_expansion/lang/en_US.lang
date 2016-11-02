@@ -1,0 +1,20 @@
+itemGroup.chemical_expansion=Chemical Expansion
+
+# Items
+item.ingotCopper.name=Copper Ingot
+item.ingotLead.name=Lead Ingot
+item.ingotSilver.name=Silver Ingot
+item.ingotCombined.name=Combined Ingot
+item.dustNetherStar.name=§dStardust
+
+# Blocks
+tile.oreCopper.name=Chalcocite
+tile.oreLead.name=Galena
+tile.oreSilver.name=Acanthite
+tile.blockCopper.name=Block of Copper
+tile.blockLead.name=Block of Lead
+tile.blockSilver.name=Block of Silver
+tile.machineFrameIron.name=Machine Frame
+tile.machineFrameGold.name=§eMachine Frame
+tile.machineFrameDiamond.name=§bMachine Frame
+tile.machineFrameMax.name=§dMachine Frame

@@ -1,0 +1,31 @@
+ * Add ore-dict support and switch over recipes
+ * Add blocks for the three iron-tier machines
+ * Learn how tile entities and GUIs work
+ * Create GUIs for iron-tier
+ * Add tile entities for iron-tier
+ * Tesla support
+ * Some kind of wrench or screwdriver
+ * Wires: Copper + RS, Copper + energized dust + gold
+ * Pipes: Lead + glass, Lead + tempered glass + steel
+ * Tubes: Silver + iron bars, Silver + obsidian bars + ender pearls
+ * New worldgen:
+   - Halite (Overworld)
+   - Calcite (Overworld)
+   - Oil (Overworld)
+   - Natural Gas (Overworld)
+   - Sulfur (Nether)
+   - Phosphate (Nether)
+   - Wolframite (Nether)
+   - Thorite (Nether)
+   - Vitriol (Nether)
+   - Fluorite (End)
+   - Cinnabar (End)
+   - Monazite (End)
+   - Pitchblende (End)
+ * Machine upgrades (R-click with machine frame to replace)
+ * Gold-tier machines:
+   ???
+ * Diamond-tier machines:
+   ???
+ * Star-tier machines:
+   ???

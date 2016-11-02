@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "all": "chemical_expansion:blocks/machineFrameMax"
+        }
+    },
+    "variants": {
+        "normal": {
+            "model": "chemical_expansion:machineFrameMax"
+        },
+        "inventory": {
+            "model": "chemical_expansion:machineFrameMax"
+        }
+    }
+}

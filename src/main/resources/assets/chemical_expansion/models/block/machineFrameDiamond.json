@@ -1,0 +1,31 @@
+{   "parent": "block/block",
+    "textures": {
+        "particle": "blocks/diamond_block",
+        "texture": "chemical_expansion:blocks/machineFrame",
+	"core": "blocks/diamond_block"
+    },
+    "elements": [
+        {   "from": [ 3, 3, 3 ],
+            "to": [ 13, 13, 13 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#core" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#core" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#core" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#core" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#core" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#core" }
+            }
+        },
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+            }
+        }
+    ]
+}
