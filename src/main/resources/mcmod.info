@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chemical_expansion",
+  "name": "Chemical Expansion",
+  "description": "A tech-based mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TristanBomb", "Pah1023"],
+  "credits": "The Forge and FML crew, for providing such an awesome framework!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

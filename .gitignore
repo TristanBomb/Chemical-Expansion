@@ -1,0 +1,13 @@
+/.project
+/.gradle/
+/.settings/
+/.classpath
+/.idea/
+/build.gradle
+/build/
+/gradle/
+/gradlew
+/mdk_Client.launch
+/mdk_Server.launch
+/bin/
+/run/

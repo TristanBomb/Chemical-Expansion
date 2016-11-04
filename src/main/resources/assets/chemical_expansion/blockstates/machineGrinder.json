@@ -1,0 +1,21 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"north": "chemical_expansion:blocks/machineGrinder",
+			"east": "chemical_expansion:blocks/machineBlank",
+			"west": "chemical_expansion:blocks/machineBlank",
+			"south": "chemical_expansion:blocks/machineBlank",
+			"up": "chemical_expansion:blocks/machineBlank",
+			"down": "chemical_expansion:blocks/machineBlank"
+		}
+	},
+	"variants": {
+		"normal": {
+			"model": "cube_directional"
+		},
+		"inventory": {
+			"model": "cube_directional"
+		}
+	}
+}
