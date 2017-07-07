@@ -50,8 +50,8 @@ public class ItemBase extends Item {
     public void addInformation(ItemStack stack, EntityPlayer playerIn, List<String> tooltip, boolean advanced)
     {
 		switch(this.name) {
+			case "item.combinedIngot": tooltip.add("§cTemporary recipe!"); break;
 		}
-		tooltip.add("§8Chemical Expansion");
     }
 	
 }

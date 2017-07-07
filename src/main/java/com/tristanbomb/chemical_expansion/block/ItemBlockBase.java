@@ -29,7 +29,5 @@ public class ItemBlockBase extends ItemBlock {
 			case "tile.machineFrameDiamond": tooltip.add("§3Tier III - Diamond"); break;
 			case "tile.machineFrameMax": tooltip.add("§5Tier IV - Stellar"); break;
 		}
-
-		tooltip.add("§8Chemical Expansion");
     }
 }

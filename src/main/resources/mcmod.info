@@ -7,7 +7,7 @@
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["TristanBomb", "Pah1023"],
+  "authorList": ["TristanBomb"],
   "credits": "The Forge and FML crew, for providing such an awesome framework!",
   "logoFile": "",
   "screenshots": [],

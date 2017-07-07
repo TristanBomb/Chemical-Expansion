@@ -4,7 +4,7 @@ itemGroup.chemical_expansion=Chemical Expansion
 item.ingotCopper.name=Copper Ingot
 item.ingotLead.name=Lead Ingot
 item.ingotSilver.name=Silver Ingot
-item.ingotCombined.name=Combined Ingot
+item.ingotSoldering.name=Soldering Alloy
 item.dustNetherStar.name=§dStardust
 
 # Blocks
@@ -18,3 +18,6 @@ tile.machineFrameIron.name=Machine Frame
 tile.machineFrameGold.name=§eMachine Frame
 tile.machineFrameDiamond.name=§bMachine Frame
 tile.machineFrameMax.name=§dMachine Frame
+tile.machineGrinder.name=Grinder
+tile.machineHeater.name=Heater
+tile.machineMixer.name=Mixer

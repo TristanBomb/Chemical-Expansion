@@ -2,7 +2,7 @@
 	"forge_marker": 1,
 	"defaults": {
 		"textures": {
-			"north": "chemical_expansion:blocks/machineGrinder",
+			"north": "chemical_expansion:blocks/machineHeaterOn",
 			"east": "chemical_expansion:blocks/machineBlank",
 			"west": "chemical_expansion:blocks/machineBlank",
 			"south": "chemical_expansion:blocks/machineBlank",

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "chemical_expansion:items/ingotCombined"
+        "layer0": "chemical_expansion:items/ingotSoldering"
     }
 }

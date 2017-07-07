@@ -10,14 +10,14 @@ public class ModItems {
 	public static ItemBase ingotCopper;
 	public static ItemBase ingotLead;
 	public static ItemBase ingotSilver;
-	public static ItemBase ingotCombined;
+	public static ItemBase ingotSoldering;
 	public static ItemBase dustNetherStar;
 	
 	public static void init() {
 		ingotCopper		= register(new ItemBase("ingotCopper", "ingotCopper"));
 		ingotLead		= register(new ItemBase("ingotLead", "ingotLead"));
 		ingotSilver		= register(new ItemBase("ingotSilver", "ingotSilver"));
-		ingotCombined	= register(new ItemBase("ingotCombined"));
+		ingotSoldering	= register(new ItemBase("ingotSoldering", "ingotSoldering"));
 		dustNetherStar	= register(new ItemBase("dustNetherStar", "dustNetherStar"));
 	}
 	

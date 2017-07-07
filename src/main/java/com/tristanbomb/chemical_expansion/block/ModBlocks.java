@@ -19,6 +19,8 @@ public class ModBlocks {
 	public static BlockMetal blockLead;
 	public static BlockMetal blockSilver;
 	public static BlockGrinder machineGrinder;
+	public static BlockMachine machineHeater;
+	public static BlockMachine machineMixer;
 	public static BlockTransparent machineFrameIron;
 	public static BlockTransparent machineFrameGold;
 	public static BlockTransparent machineFrameDiamond;
@@ -32,6 +34,8 @@ public class ModBlocks {
 		blockLead	= register(new BlockMetal("blockLead"));
 		blockSilver	= register(new BlockMetal("blockSilver"));
 		machineGrinder		= register(new BlockGrinder("machineGrinder"));
+		machineHeater		= register(new BlockMachine("machineHeater"));
+		machineMixer		= register(new BlockMachine("machineMixer"));
 		machineFrameIron	= register(new BlockTransparent("machineFrameIron"));
 		machineFrameGold	= register(new BlockTransparent("machineFrameGold"));
 		machineFrameDiamond	= register(new BlockTransparent("machineFrameDiamond"));
